@@ -1,2 +1,6 @@
-# bootcamp_linux_dio
-exercicio para entrega de projeto de bootcamp da DIO sobre Linux
+#Desafio Git/GitHub da DIO
+
+Repositorio criado para o Desafio de Projeto
+
+##Links Uteis
+[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
